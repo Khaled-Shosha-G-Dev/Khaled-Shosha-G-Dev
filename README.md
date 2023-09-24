@@ -28,3 +28,5 @@
 - Entity Framwork
 - LINQ
 - ADO.net (Connected mode)
+- ERD diagram 
+- Mapping diagram
